@@ -1,0 +1,25 @@
+{
+  "name": "bot-discord",
+  "version": "0.0.1",
+  "description": "Un bot simple pour son serveur discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIDOUNI/simple-discord-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "King Boudini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BIDOUNI/simple-discord-bot/issues"
+  },
+  "homepage": "https://github.com/BIDOUNI/simple-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
